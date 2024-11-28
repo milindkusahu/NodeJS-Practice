@@ -5,3 +5,5 @@
 # JavaScript --> Synchronous (Single Threaded)
 
 # NodeJS can perform asynchronous operations.
+
+![alt text](/img/image.png)
