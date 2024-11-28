@@ -17,3 +17,5 @@ NodeJS can perform asynchronous operations.
 ## Monolith Vs. Microservices
 
 ![Monolith Microservices](/img/monolith-vs-microservices.png)
+
+![Monolith Microservices](/img/monolith-vs-microservices1.png)
