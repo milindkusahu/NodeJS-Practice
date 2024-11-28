@@ -1,9 +1,15 @@
-# NodeJS is a JS Runtime Environment.
+## Basics
 
-# V8 Engine is a C++ Code.
+NodeJS is a JS Runtime Environment.
 
-# JavaScript --> Synchronous (Single Threaded)
+V8 Engine is a C++ Code.
 
-# NodeJS can perform asynchronous operations.
+JavaScript --> Synchronous (Single Threaded)
 
-![alt text](/img/image.png)
+NodeJS can perform asynchronous operations.
+
+![Browser Working](/img/browser-working.png)
+
+## WaterFall Model (SDLC)
+
+![Waterfall Model](/img/waterfall-model.png)
