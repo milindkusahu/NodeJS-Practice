@@ -13,3 +13,7 @@ NodeJS can perform asynchronous operations.
 ## WaterFall Model (SDLC)
 
 ![Waterfall Model](/img/waterfall-model.png)
+
+## Monolith Vs. Microservices
+
+![Monolith Microservices](/img/monolith-vs-microservices.png)
