@@ -19,3 +19,9 @@ NodeJS can perform asynchronous operations.
 ![Monolith Microservices](/img/monolith-vs-microservices.png)
 
 ![Monolith Microservices](/img/monolith-vs-microservices1.png)
+
+## Package JSON Versioning
+
+![versioning](/img/versioning.png)
+
+![versioning](/img/versioning1.png)
